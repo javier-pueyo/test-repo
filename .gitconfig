@@ -1,0 +1,7 @@
+[user]
+	name = javier-pueyo
+	email = javierpueyomir@gmail.com
+[diff]
+    tool = vscode
+[difftool "vscode"]
+    cmd = code --wait --diff $LOCAL $REMOTE

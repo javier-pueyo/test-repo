@@ -1,1 +1,1 @@
-console.lo('holas');
+console.log('holas');
